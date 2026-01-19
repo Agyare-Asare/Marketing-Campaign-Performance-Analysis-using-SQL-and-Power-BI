@@ -1,7 +1,7 @@
 # Marketing-Campaign-Performance-Analysis-using-SQL-and-Power-BI
 This project analyzes customer response data from a marketing campaign. The goal focuses on understanding which customer segments respond, spend more, and engage across channels.
-Tools Used
-## SQL Server for cleaning, transformation, and analysis.
+## Tools Used
+SQL Server for cleaning, transformation, and analysis.
 Power BI for data modeling, measures, and dashboards.
 ## Dashboard
 <img width="1920" height="1080" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/8ec9ac65-7dda-4f9f-a43f-b88dbae988a4" />
